@@ -1,0 +1,149 @@
+*{
+
+	padding:1px; 
+	margin:1px;
+}
+
+a{
+
+	font-family: sans-serif;
+
+}
+
+span{
+
+	font-size: 30px;
+	font-family: impact;
+	color: white;
+	margin-right: 600px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+ 	height: 50px;
+  padding-left: 20px;
+
+
+}
+
+
+ul li a{
+
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 20px;
+	color: white;
+
+}
+
+ul li a:hover{
+
+	color: red;
+
+}
+
+
+
+li{
+
+	padding-left: 40px;
+}
+
+.introduction h3{
+	font-size: 30px;
+	text-align: center;
+	color: darkorange;
+}
+
+.introduction img{
+
+	
+}
+
+
+
+li {
+  display: inline;
+
+}
+
+
+/*-----------------------------------   */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+
+
+
+
+
+
+/*-----------------------------------   */
+
+footer{
+	margin-top: 40px;
+	background-color: black;
+	color: white;
+	height: 40px;
+	font-size: 15px;
+}
+
+footer p{
+	font-family: sans-serif;
+	float: right;
+	margin-right: 20px;
+}
